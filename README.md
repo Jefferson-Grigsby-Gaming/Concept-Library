@@ -4,7 +4,6 @@ Concept-Library
 The Repo for JGG's Entire concept history
 
 
-
 ## Game Design Doc
 https://docs.google.com/document/d/16JCdhExFS5pSidP6I8RP7sUeAT-WutqYdoornrnhLXw/edit
 
